@@ -1,0 +1,65 @@
+body{
+    background-image: url(imagenes/cars.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main{
+    font-family: sans-serif;
+    width: 540px;
+    margin: 0 auto;
+    /* margin-left: auto;
+    margin-right: auto; */
+    background-color:rgb(175, 90, 16);
+}
+h1 {
+    font-size:solid; 
+    
+}
+
+h2 {
+    font-size: solid;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.imag img{
+    width: 60px;
+    margin-right: 40px;
+    margin-left: 30px;
+}
+
+.resto a{
+    color: black;
+    text-decoration: none;
+    background-color: yellowgreen;
+    border: 3px solid orange;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: block;
+    text-align: center;
+}
+
+.resto a:hover{
+    background-color: brown;
+}
+.resto img{
+    width: 100%;
+}
+
+.resto p {
+    text-align: center;
+}
+
+article{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.map{
+    background-color: rgb(254, 222, 9);
+    margin-left:550px;
+    margin-right: 550px;
+}
